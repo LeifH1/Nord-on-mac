@@ -4,7 +4,7 @@ A collection of all my config files to make your mac environment Nord themed as 
 A lot of the configs are borrowed from other users. I claim no credit for having done anything on here. I just wanted to make available to others what I wish was out there for documentation when I set out to rice my macOS. I am running ventura 13.2.1 on a 2021 macbook pro m1.
 
 Preview
-Screenshot 2023-03-17 at 10.07.02 PM<img width="1512" alt="image" src="https://user-images.githubusercontent.com/86532748/226086048-ef3ee27a-a7f1-431b-8f43-98ffb6cf7aa3.png">
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/86532748/226086048-ef3ee27a-a7f1-431b-8f43-98ffb6cf7aa3.png">
 
 
 Installation 
